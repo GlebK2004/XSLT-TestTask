@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><Objects>
+    <Param Name="p_LOGIN_ID1" ID="3" type="VARCHAR2" target_type="String" In="1"/>
+    <Param Name="p_UPDATE_DATE2" ID="4" type="NUMBER" target_type="BigDecimal" In="1"/>
+    <Param Name="p_LOGIN_ID1" ID="6" type="VARCHAR2" target_type="" In="1"/>
+    <Param Name="p_UPDATE_DATE4" ID="7" type="VARCHAR2" target_type="String" In="1"/>
+    <Param Name="p_UPDATE_DATE5" ID="45" type="DATETIME" target_type="Timestamp" In="1"/>
+    <Param Name="p_UPDATE_DATE3" ID="46" type="INT" target_type="Integer" In="1"/>
+</Objects>
